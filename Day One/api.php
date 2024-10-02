@@ -7,10 +7,10 @@ header("Content-Type: application/json");
 
 include "conn.php";
 
-// function readAll
-// function insert 
-// function update
-// function delete
+// function readAll : read all students
+// function insert  : insert students / register students
+// function update : update students
+// function delete : delete students
 
 
 
